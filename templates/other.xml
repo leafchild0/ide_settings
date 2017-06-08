@@ -1,0 +1,7 @@
+<templateSet group="other">
+  <template name="//T" value="//TODO: " shortcut="TAB" description="TODO" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

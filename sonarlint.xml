@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.iodinesoftware.com" />
+          <option name="name" value="iodine" />
+          <option name="login" value="victor" />
+          <password>df8fdf99df98dfe9dfdfdffadf8fdfd8</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

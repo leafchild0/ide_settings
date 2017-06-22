@@ -39,11 +39,6 @@
     <option name="ignoreObjectMethods" value="true" />
     <option name="ignoreAnonymousClassMethods" value="false" />
   </inspection_tool>
-  <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
-    <option name="processCode" value="false" />
-    <option name="processLiterals" value="false" />
-    <option name="processComments" value="true" />
-  </inspection_tool>
   <inspection_tool class="SpringModelInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessarySuperQualifier" enabled="true" level="WARNING" enabled_by_default="true" />
 </profile>

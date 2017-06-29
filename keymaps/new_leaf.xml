@@ -70,6 +70,9 @@
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord" />
   <action id="EditorStartNewLineBefore" />
+  <action id="EditorToggleShowWhitespaces">
+    <keyboard-shortcut first-keystroke="shift ctrl alt space" />
+  </action>
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="FileStructurePopup">

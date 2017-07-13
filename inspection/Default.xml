@@ -31,8 +31,8 @@
     <option name="IGNORE_POINT_TO_ITSELF" value="false" />
     <option name="myAdditionalJavadocTags" value="date" />
   </inspection_tool>
-  <inspection_tool class="JpaDataSourceORMDomInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="JpaDataSourceORMInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="JpaDataSourceORMDomInspection" enabled="true" level="SERVER PROBLEM" enabled_by_default="true" />
+  <inspection_tool class="JpaDataSourceORMInspection" enabled="true" level="SERVER PROBLEM" enabled_by_default="true" />
   <inspection_tool class="MissingOverrideAnnotation" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreObjectMethods" value="true" />
     <option name="ignoreAnonymousClassMethods" value="false" />

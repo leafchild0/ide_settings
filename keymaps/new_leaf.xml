@@ -68,7 +68,9 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="EditorScrollToCenter" />
-  <action id="EditorSelectWord" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  </action>
   <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleShowWhitespaces">
     <keyboard-shortcut first-keystroke="shift ctrl alt space" />

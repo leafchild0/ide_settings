@@ -1,0 +1,13 @@
+<application>
+  <component name="KeyPromoterStats">
+    <option name="stats">
+      <map>
+        <entry key="'Alt+5'" value="1" />
+        <entry key="'Ctrl+Alt+Z'" value="1" />
+        <entry key="'Ctrl+Shift+B'" value="1" />
+        <entry key="'Ctrl+Shift+F10'" value="1" />
+        <entry key="'Ctrl+Shift+Y'" value="3" />
+      </map>
+    </option>
+  </component>
+</application>

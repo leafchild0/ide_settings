@@ -1,4 +1,7 @@
 <keymap version="1" name="new_leaf" parent="$default">
+  <action id="ActivateAndroidMonitorToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
@@ -9,6 +12,7 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 7" />
   </action>
@@ -68,7 +72,9 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="EditorScrollToCenter" />
-  <action id="EditorSelectWord" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  </action>
   <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleShowWhitespaces">
     <keyboard-shortcut first-keystroke="shift ctrl alt space" />
@@ -107,7 +113,6 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
-  <action id="GotoNextError" />
   <action id="GotoPreviousError" />
   <action id="GotoTest" />
   <action id="GotoTypeDeclaration">
@@ -132,7 +137,6 @@
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="ctrl q" />
-    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift alt r" />

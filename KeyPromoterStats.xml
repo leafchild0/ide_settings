@@ -12,6 +12,9 @@
         <entry key="'Ctrl+1'" value="1" />
         <entry key="'Ctrl+Alt+Z'" value="2" />
         <entry key="'Ctrl+F10'" value="2" />
+        <entry key="'Ctrl+F2'" value="1" />
+        <entry key="'Ctrl+F5'" value="1" />
+        <entry key="'Ctrl+F9'" value="1" />
         <entry key="'Ctrl+Shift+B'" value="1" />
         <entry key="'Ctrl+Shift+F10'" value="1" />
         <entry key="'Ctrl+Shift+Y'" value="3" />

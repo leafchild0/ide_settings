@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>16</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Force Step Into">
@@ -38,7 +38,7 @@
           <IdeaActionID>PackageFile</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Package file</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'iodine webapp'">

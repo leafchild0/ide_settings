@@ -30,7 +30,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>300</Count>
+          <Count>321</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -78,7 +78,7 @@
           <IdeaActionID>PackageFile</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Package file</Description>
-          <Count>20</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Parameter Info">
@@ -111,6 +111,14 @@
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild Project</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Redo Duplicate Line or Selection">
+        <Item>
+          <IdeaActionID>$Redo</IdeaActionID>
+          <ShortCut>'⇧⌘Z' or '⌥⇧⌫'</ShortCut>
+          <Description>Redo Duplicate Line or Selection</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'iodine webapp'">
@@ -206,7 +214,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>39</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'iodine webapp' application">

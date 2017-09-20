@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>347</Count>
+          <Count>359</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -78,7 +78,7 @@
           <IdeaActionID>PackageFile</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Package file</Description>
-          <Count>28</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Parameter Info">
@@ -127,6 +127,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'iodine webapp'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌥⌘Z'</ShortCut>
+          <Description>Revert...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">

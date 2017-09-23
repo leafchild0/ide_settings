@@ -38,7 +38,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>479</Count>
+          <Count>480</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -222,7 +222,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌘F7'</ShortCut>
           <Description>Terminal</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">

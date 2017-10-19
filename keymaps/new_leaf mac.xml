@@ -9,6 +9,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta f7" />
   </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="Compile">
     <keyboard-shortcut first-keystroke="shift meta f11" />
   </action>

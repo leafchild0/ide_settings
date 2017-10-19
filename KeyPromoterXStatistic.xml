@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>911</Count>
+          <Count>928</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -175,6 +175,14 @@
           <ShortCut>'⇧⌘K'</ShortCut>
           <Description>Push...</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Evaluate Expression">
+        <Item>
+          <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
+          <ShortCut>'⌥⌘F8' or '⌥Button1 Click'</ShortCut>
+          <Description>Quick Evaluate Expression</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rebuild ...e 'iodine-webclient'">
@@ -414,7 +422,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>216</Count>
+          <Count>229</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">

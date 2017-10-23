@@ -134,7 +134,7 @@
           <IdeaActionID>PackageFile</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Package file</Description>
-          <Count>77</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Parameter Info">
@@ -310,7 +310,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'rta-webclient'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">

@@ -22,7 +22,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -366,7 +366,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'iodine webapp'</Description>
-          <Count>36</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'kaadin-sampler [org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run]'">

@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1085</Count>
+          <Count>1092</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -233,6 +233,22 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'TeamSelectorWindowPopupTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'TeamSelectorWindowPopupTest'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'com.iodine.webapp.ui.views.dashboard.components in iodine-webapp'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.iodine.webapp.ui.views.dashboard.components in iodine-webapp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.leafchild.kotlinspring.ApplicationKt'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -377,6 +393,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'TeamSelectorWindowPopupTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'TeamSelectorWindowPopupTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'iodine webapp'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -438,7 +462,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>314</Count>
+          <Count>319</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">

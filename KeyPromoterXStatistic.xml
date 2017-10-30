@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1130</Count>
+          <Count>1135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -231,6 +231,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'DashboardUtilsTest.testGroupDataByInterval'</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DashboardWindowTest.testDashboardWindow'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DashboardWindowTest.testDashboardWindow'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'DischargesByCdiDateChartTest.testDischargesByCdiDateChart'">
@@ -510,7 +518,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>332</Count>
+          <Count>334</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">

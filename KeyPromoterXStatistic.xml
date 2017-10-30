@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1058</Count>
+          <Count>1074</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -214,6 +214,14 @@
           <IdeaActionID>$Redo</IdeaActionID>
           <ShortCut>'⇧⌘Z' or '⌥⇧⌫'</ShortCut>
           <Description>Redo Duplicate Line or Selection</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DischargesByCdiDateChartTest.testDischargesByCdiDateChart'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'DischargesByCdiDateChartTest.testDischargesByCdiDateChart'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -353,6 +361,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'DischargesByCdiDateChartTest.testDischargesByCdiDateChart'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DischargesByCdiDateChartTest.testDischargesByCdiDateChart'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'QueryEditorLayoutTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -422,7 +438,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>307</Count>
+          <Count>308</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">

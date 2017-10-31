@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1160</Count>
+          <Count>1167</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -271,6 +271,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PriorityDischargesTabTest'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ProductivityTabTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'ProductivityTabTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'QueryEditorLayoutTest'">
@@ -542,7 +550,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>340</Count>
+          <Count>342</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">

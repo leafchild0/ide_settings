@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1233</Count>
+          <Count>1246</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -103,6 +103,14 @@
           <ShortCut>'⌥8'</ShortCut>
           <Description>Evaluate Expression...</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find">
+        <Item>
+          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
+          <ShortCut>'⌘3'</ShortCut>
+          <Description>Find</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Force Step Into">

@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1258</Count>
+          <Count>1263</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -287,6 +287,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'IodineDashboardStateTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'NotificationTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'NotificationTest'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PriorityDischargesTabTest'">
@@ -614,7 +622,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
     </option>

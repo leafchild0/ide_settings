@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>68</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'MoreOptionsMenuTest'">
@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1474</Count>
+          <Count>1493</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -313,6 +313,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'IodineComboboxMultiselectTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'IodineComboboxMultiselectTest'</Description>
+          <Count>35</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'IodineDashboardAdapterTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -326,7 +334,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'IodineDashboardStateTest'</Description>
-          <Count>1</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'MoreOptionsMenuTest'">
@@ -350,7 +358,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'PriorityDischargesTabTest'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'ProductivityTabTest'">
@@ -438,7 +446,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Main'">
@@ -455,6 +463,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Main.main()'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'com.iodine.webapp.ui...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'com.iodine.webapp.ui...'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.leafchild.kotlin...'">
@@ -559,6 +575,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'DischargesByCdiDateChartTest.testDischargesByCdiDateChart'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'IodineComboboxMultiselectTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'IodineComboboxMultiselectTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'IodineDashboardAdapterTest.testGetPayersFilter'">
@@ -686,7 +710,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>462</Count>
+          <Count>478</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">

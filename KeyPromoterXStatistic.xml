@@ -33,6 +33,14 @@
           <Count>73</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Constant...">
+        <Item>
+          <IdeaActionID>IntroduceConstant</IdeaActionID>
+          <ShortCut>'⌥⌘C'</ShortCut>
+          <Description>Constant...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy Reference">
         <Item>
           <IdeaActionID>CopyReference</IdeaActionID>
@@ -438,7 +446,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'iodine webapp'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'rta-webclient'">

@@ -158,7 +158,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -174,7 +174,7 @@
           <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
           <ShortCut>'⌥A'</ShortCut>
           <Description>Maven Projects</Description>
-          <Count>54</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -798,7 +798,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌘F7'</ShortCut>
           <Description>Terminal</Description>
-          <Count>23</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Bookmark">

@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2292</Count>
+          <Count>2298</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -622,6 +622,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tests in 'com.iodine.webapp.ui...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tests in 'com.iodinesoftware.rta.model.p...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Tests in 'com.iodinesoftware.rta.model.p...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

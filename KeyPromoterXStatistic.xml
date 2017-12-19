@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>99</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HelloDropwizardApplication'">
@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2786</Count>
+          <Count>2788</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -214,7 +214,7 @@
           <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
           <ShortCut>'⌥A'</ShortCut>
           <Description>Maven Projects</Description>
-          <Count>73</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -310,7 +310,7 @@
           <IdeaActionID>CompileProject</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild Project</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Redo Duplicate Line or Selection">
@@ -910,7 +910,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'iodine-webclient'</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'kaadin-sampler [org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run]'">

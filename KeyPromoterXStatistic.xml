@@ -214,7 +214,7 @@
           <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
           <ShortCut>'⌥A'</ShortCut>
           <Description>Maven Projects</Description>
-          <Count>71</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -966,7 +966,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌘F7'</ShortCut>
           <Description>Terminal</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Bookmark">

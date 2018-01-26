@@ -342,7 +342,7 @@
           <IdeaActionID>CompileProject</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild Project</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Redo Duplicate Line or Selection">

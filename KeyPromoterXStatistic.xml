@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>109</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'HelloDropwizardApplication'">
@@ -190,7 +190,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3414</Count>
+          <Count>3425</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'iodine webapp'</Description>
-          <Count>106</Count>
+          <Count>108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'iodine-webclient saml'">
@@ -1134,7 +1134,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1074</Count>
+          <Count>1079</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Hierarchy">

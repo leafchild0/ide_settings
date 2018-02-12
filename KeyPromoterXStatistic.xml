@@ -198,7 +198,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3526</Count>
+          <Count>3527</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1174,7 +1174,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌘F7'</ShortCut>
           <Description>Terminal</Description>
-          <Count>43</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Bookmark">

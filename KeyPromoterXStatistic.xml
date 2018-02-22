@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>149</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Constant...">
@@ -214,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3946</Count>
+          <Count>3951</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -697,6 +697,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'SmartListFilterWindowTest.testServicesFlagHandling'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'SmartListFilterWindowTest.testServicesFlagHandling'</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'TeamSelectorWindowPopupTest'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -846,7 +854,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>17</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reword...">
@@ -1129,6 +1137,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'SmartListFilterWindowTest.testServicesFlagHandling'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'SmartListFilterWindowTest.testServicesFlagHandling'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TeamSelectorWindowPopupTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1262,7 +1278,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1227</Count>
+          <Count>1232</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Hierarchy">

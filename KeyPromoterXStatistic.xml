@@ -94,7 +94,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>123</Count>
+          <Count>127</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All in iodine-webapp'">
@@ -142,6 +142,14 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'SessionGuardTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'com.iodine.webapp.retrospective in iodin...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'com.iodine.webapp.retrospective in iodin...'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -214,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3997</Count>
+          <Count>4004</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -286,7 +294,7 @@
           <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
           <ShortCut>'⌥A'</ShortCut>
           <Description>Maven Projects</Description>
-          <Count>91</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -793,6 +801,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'com.iodine.webapp.retrospective in iodine-webapp'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'com.iodine.webapp.retrospective in iodine-webapp'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'com.iodine.webapp.ui.views.dashboard.components in iodine-webapp'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -966,7 +982,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'com.iodine.webapp.retrospective in iodin...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'com.leafchild.kotlin...'">
@@ -1286,7 +1302,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌘F7'</ShortCut>
           <Description>Terminal</Description>
-          <Count>51</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Bookmark">
@@ -1302,7 +1318,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1244</Count>
+          <Count>1246</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Hierarchy">

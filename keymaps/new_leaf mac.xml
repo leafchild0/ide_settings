@@ -32,6 +32,9 @@
   <action id="Debugger.Tree.EvaluateInConsole">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>

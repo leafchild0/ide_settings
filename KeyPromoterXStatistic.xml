@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4343</Count>
+          <Count>4346</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -767,6 +767,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'TeamSelectorWindowPopupTest'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'TimelineTabTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'TimelineTabTest'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'TitleBarTest'">

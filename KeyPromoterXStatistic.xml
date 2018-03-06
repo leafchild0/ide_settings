@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>140</Count>
+          <Count>141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'All in iodine-webapp'">
@@ -950,7 +950,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'All in iodine-webapp'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'HelloDropwizardApplication'">

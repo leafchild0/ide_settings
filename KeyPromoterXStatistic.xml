@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4391</Count>
+          <Count>4402</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -582,7 +582,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'IodineNavigatorTest'</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'IodineSamlAuthenticationProviderTest'">
@@ -975,6 +975,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'HelloSpringBootApplication'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'IodineNavigatorTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'IodineNavigatorTest'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Main'">
@@ -1374,7 +1382,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1376</Count>
+          <Count>1379</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Hierarchy">

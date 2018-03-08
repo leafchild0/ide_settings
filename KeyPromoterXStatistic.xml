@@ -6,7 +6,7 @@
           <IdeaActionID>Images.Editor.ActualSize</IdeaActionID>
           <ShortCut>'⌘NumPad /' or '⌘/'</ShortCut>
           <Description>Actual Size</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add">
@@ -182,7 +182,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'iodine webapp'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'iodine-webclient saml'">
@@ -326,7 +326,7 @@
           <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
           <ShortCut>'⌥A'</ShortCut>
           <Description>Maven Projects</Description>
-          <Count>95</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -430,7 +430,7 @@
           <IdeaActionID>CompileProject</IdeaActionID>
           <ShortCut>'⇧⌘F9'</ShortCut>
           <Description>Rebuild Project</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...TestAbstract.groovy'">
@@ -1454,7 +1454,7 @@
           <IdeaActionID>Images.Editor.ZoomIn</IdeaActionID>
           <ShortCut>'⌘+' or '⌘='</ShortCut>
           <Description>Zoom In</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom Out">
@@ -1462,7 +1462,7 @@
           <IdeaActionID>Images.Editor.ZoomOut</IdeaActionID>
           <ShortCut>'⌘-' or '⌘-'</ShortCut>
           <Description>Zoom Out</Description>
-          <Count>12</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
     </option>

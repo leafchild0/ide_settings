@@ -326,7 +326,7 @@
           <IdeaActionID>ActivateMavenProjectsToolWindow</IdeaActionID>
           <ShortCut>'⌥A'</ShortCut>
           <Description>Maven Projects</Description>
-          <Count>97</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">

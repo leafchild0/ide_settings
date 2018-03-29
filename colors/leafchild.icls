@@ -258,6 +258,12 @@
         <option name="FOREGROUND" value="ced1cf" />
       </value>
     </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
+      <value>
+        <option name="FOREGROUND" value="878787" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
         <option name="FOREGROUND" value="ced1cf" />
@@ -550,6 +556,11 @@
       <value>
         <option name="FOREGROUND" value="998936" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="355e80" />
       </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">

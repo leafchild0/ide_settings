@@ -59,4 +59,7 @@
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="Vcs.CherryPick">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
 </keymap>

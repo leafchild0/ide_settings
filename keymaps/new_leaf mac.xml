@@ -62,4 +62,7 @@
   <action id="Vcs.CherryPick">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="Vcs.ShowDiffWithLocal">
+    <keyboard-shortcut first-keystroke="shift d" />
+  </action>
 </keymap>

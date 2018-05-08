@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../iodine-webapp/src/main/java/com/iodine/webapp/framework/views/account/AccountWindow.java [iodine-webapp]'" />
     <option name="defaultScopeName" value="File '.../iodine-webapp/src/main/java/com/iodine/webapp/framework/views/account/AccountWindow.java [iodine-webapp]'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../iodine-webapp/src/main/java/com/iodine/webapp/framework/views/account/AccountWindow.java [iodine-webapp]'" />
   </component>
 </application>

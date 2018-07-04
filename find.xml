@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../iodine-webapp/src/main/java/com/iodine/webapp/framework/events/WorksheetClosedEvent.java [iodine-webapp]'" />
     <option name="defaultScopeName" value="File '.../iodine-webapp/src/main/java/com/iodine/webapp/framework/events/WorksheetClosedEvent.java [iodine-webapp]'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../iodine-webapp/src/main/java/com/iodine/webapp/framework/events/WorksheetClosedEvent.java [iodine-webapp]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>

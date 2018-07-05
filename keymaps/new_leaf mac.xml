@@ -41,8 +41,14 @@
   <action id="Debugger.Tree.EvaluateInConsole">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="shift ctrl e" />

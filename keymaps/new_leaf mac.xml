@@ -53,6 +53,9 @@
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="Hotswap">
     <keyboard-shortcut first-keystroke="meta f11" />
   </action>

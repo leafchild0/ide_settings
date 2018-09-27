@@ -158,6 +158,13 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="4c83ff" />
+        <option name="EFFECT_COLOR" value="4c83ff" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4b4e55" />
@@ -599,6 +606,11 @@
       <value>
         <option name="FOREGROUND" value="969896" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="6a82ee" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">

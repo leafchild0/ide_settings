@@ -74,6 +74,7 @@
         <package name="" withSubpackages="true" static="false" />
       </value>
     </option>
+    <option name="IMPORT_ANNOTATION_WRAP" value="1" />
   </GroovyCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />

@@ -1,0 +1,15 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabsHeight" value="30" />
+    <option name="selectedTheme" value="DRACULA" />
+    <option name="userId" value="1e30c63b:16991ca7577:-8000" />
+    <option name="version" value="3.5.0.1" />
+  </component>
+</application>

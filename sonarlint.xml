@@ -8,6 +8,8 @@
           <option name="name" value="iodine" />
           <option name="login" value="victor" />
           <password>df8fdf99df98dfe9dfdfdffadf8fdfd8</password>
+          <organizationKey>default-organization</organizationKey>
+          <enableNotifications>true</enableNotifications>
         </SonarQubeServer>
       </list>
     </option>

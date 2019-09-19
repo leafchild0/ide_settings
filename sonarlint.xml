@@ -7,7 +7,7 @@
           <option name="hostUrl" value="https://sonar.iodinesoftware.com" />
           <option name="name" value="iodine" />
           <option name="login" value="victor" />
-          <password>df8fdf99df98dfe9dfdfdffadf8fdfd8</password>
+          <password>dfc1dfd8dfd3df9cdf9cdfcddfdcdff4dffbdfcddfe4dfff</password>
           <organizationKey>default-organization</organizationKey>
           <enableNotifications>true</enableNotifications>
         </SonarQubeServer>

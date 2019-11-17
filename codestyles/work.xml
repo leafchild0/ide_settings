@@ -22,13 +22,6 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="180" />
-  <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
-  <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
-  <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
-  <option name="JD_KEEP_EMPTY_PARAMETER" value="false" />
-  <option name="JD_KEEP_EMPTY_EXCEPTION" value="false" />
-  <option name="JD_KEEP_EMPTY_RETURN" value="false" />
-  <option name="JD_PRESERVE_LINE_FEEDS" value="true" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <DBN-PSQL>
     <case-options enabled="false">
@@ -188,6 +181,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>

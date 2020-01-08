@@ -1,5 +1,7 @@
 <application>
   <component name="GradleExperimentalSettings">
+    <option name="SKIP_SOURCE_GEN_ON_PROJECT_SYNC" value="true" />
     <option name="MAX_MODULE_COUNT_FOR_SOURCE_GEN" value="3" />
+    <option name="SKIP_SRC_AND_JAVADOC_DOWNLOAD_ON_SYNC" value="true" />
   </component>
 </application>

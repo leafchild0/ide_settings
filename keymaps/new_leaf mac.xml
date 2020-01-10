@@ -28,7 +28,6 @@
     <keyboard-shortcut first-keystroke="meta alt slash" />
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
-    <keyboard-shortcut first-keystroke="shift meta slash" />
     <keyboard-shortcut first-keystroke="shift meta divide" />
     <keyboard-shortcut first-keystroke="shift meta divide" />
   </action>
@@ -38,8 +37,17 @@
   <action id="CompileProject">
     <keyboard-shortcut first-keystroke="shift meta f9" />
   </action>
+  <action id="Console.TableResult.SetDefault" />
   <action id="Debugger.Tree.EvaluateInConsole">
     <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl minus" />
@@ -50,11 +58,16 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
   <action id="Hotswap">
     <keyboard-shortcut first-keystroke="meta f11" />
@@ -62,10 +75,14 @@
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="NextEditorTab" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
-    <keyboard-shortcut first-keystroke="shift ctrl right" />
   </action>
+  <action id="PreviousEditorTab" />
+  <action id="RestoreDefaultLayout" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
@@ -78,10 +95,12 @@
   <action id="Runner.CloseAllViews">
     <keyboard-shortcut first-keystroke="ctrl meta w" />
   </action>
+  <action id="Scala.Desugar" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="ShowContent" />
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="f9" />
   </action>

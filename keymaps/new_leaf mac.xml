@@ -21,6 +21,12 @@
   <action id="CheckStyleCurrentFileAction">
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>

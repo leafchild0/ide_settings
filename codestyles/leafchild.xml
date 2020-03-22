@@ -95,6 +95,7 @@
     <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
     <arrangement>
@@ -120,7 +121,6 @@
     <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>

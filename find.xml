@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'auth-buddy'" />
-    <option name="defaultScopeName" value="Project 'auth-buddy'" />
-    <option name="SEARCH_SCOPE" value="Project 'auth-buddy'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>

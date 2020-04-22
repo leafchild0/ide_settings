@@ -5,5 +5,14 @@
         <option value="WHITESPACE_RULE" />
       </set>
     </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="Component that represents" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
   </component>
 </application>

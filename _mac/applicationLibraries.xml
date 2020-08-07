@@ -206,6 +206,18 @@
     </gwt-sdk-list>
   </component>
   <component name="libraryTable">
+    <library name="@mdi/font" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_@mdi_font@latest_css_materialdesignicons.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_@mdi_font@latest_css_materialdesignicons.css" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/jest" type="javaScript">
       <CLASSES />
       <JAVADOC />

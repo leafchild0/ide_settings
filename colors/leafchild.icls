@@ -1,7 +1,18 @@
 <scheme name="leafchild" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="modified">2020-05-18T08:52:00</property>
+    <property name="modified">2020-08-28T12:55:12</property>
   </metaInfo>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="0.9" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="7b7e80" />
@@ -337,7 +348,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="4b4e55" />
+        <option name="FOREGROUND" value="9097a8" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">

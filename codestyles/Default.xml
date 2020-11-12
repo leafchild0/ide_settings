@@ -3,9 +3,24 @@
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
   </JavaCodeStyleSettings>
-  <VueCodeStyleSettings>
-    <option name="INDENT_CHILDREN_OF_TOP_LEVEL" value="template, script, style" />
-  </VueCodeStyleSettings>
+  <JetCodeStyleSettings>
+    <option name="PACKAGES_TO_USE_STAR_IMPORTS">
+      <value>
+        <package name="java.util" alias="false" withSubpackages="false" />
+        <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
+        <package name="io.ktor" alias="false" withSubpackages="true" />
+      </value>
+    </option>
+    <option name="PACKAGES_IMPORT_LAYOUT">
+      <value>
+        <package name="" alias="false" withSubpackages="true" />
+        <package name="java" alias="false" withSubpackages="true" />
+        <package name="javax" alias="false" withSubpackages="true" />
+        <package name="kotlin" alias="false" withSubpackages="true" />
+        <package name="" alias="true" withSubpackages="true" />
+      </value>
+    </option>
+  </JetCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="BLANK_LINES_BEFORE_METHOD_BODY" value="1" />
     <indentOptions>
@@ -20,13 +35,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Vue">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="4" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
   </codeStyleSettings>

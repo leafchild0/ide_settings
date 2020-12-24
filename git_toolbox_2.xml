@@ -1,5 +1,15 @@
 <application>
   <component name="GitToolBoxAppSettings2">
+    <option name="absoluteDateTimeStyle" value="MDY_TIME" />
+    <option name="extrasConfig">
+      <ExtrasConfig>
+        <option name="autoFetchEnabledOverride">
+          <BoolConfigOverride>
+            <option name="value" value="true" />
+          </BoolConfigOverride>
+        </option>
+      </ExtrasConfig>
+    </option>
     <option name="previousVersionMigrated" value="true" />
     <option name="version" value="3" />
   </component>

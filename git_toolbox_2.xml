@@ -5,7 +5,7 @@
       <ExtrasConfig>
         <option name="autoFetchEnabledOverride">
           <BoolConfigOverride>
-            <option name="value" value="true" />
+            <option name="enabled" value="true" />
           </BoolConfigOverride>
         </option>
       </ExtrasConfig>

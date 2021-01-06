@@ -3,5 +3,6 @@
     <resource url="http://ant.apache.org/ivy/schemas/ivy.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.1/extResources/869a15b5_ivy.xsd" />
     <resource url="http://checkstyle.sourceforge.net/dtds/configuration_1_3.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.1/extResources/40fa6519_configuration_1_3.dtd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.1.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/extResources/32b10bb8_dbchangelog-3.1.xsd" />
+    <resource url="https://pmd.sourceforge.io/ruleset_2_0_0.xsd" location="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/extResources/eeba745_ruleset_2_0_0.xsd" />
   </component>
 </application>

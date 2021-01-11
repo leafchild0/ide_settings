@@ -5,6 +5,13 @@
       <ExtrasConfig>
         <option name="autoFetchEnabledOverride">
           <BoolConfigOverride>
+            <option name="applied">
+              <list>
+                <AppliedConfigOverride>
+                  <option name="projectPath" value="$USER_HOME$/dev/java/microfrontends" />
+                </AppliedConfigOverride>
+              </list>
+            </option>
             <option name="enabled" value="true" />
           </BoolConfigOverride>
         </option>

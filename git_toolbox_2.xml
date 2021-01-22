@@ -10,6 +10,9 @@
                 <AppliedConfigOverride>
                   <option name="projectPath" value="$USER_HOME$/dev/java/microfrontends" />
                 </AppliedConfigOverride>
+                <AppliedConfigOverride>
+                  <option name="projectPath" value="$USER_HOME$/work/slice-provisioning-iam-aviso-account" />
+                </AppliedConfigOverride>
               </list>
             </option>
             <option name="enabled" value="true" />

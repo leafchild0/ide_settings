@@ -13,6 +13,9 @@
                 <AppliedConfigOverride>
                   <option name="projectPath" value="$USER_HOME$/work/slice-provisioning-iam-aviso-account" />
                 </AppliedConfigOverride>
+                <AppliedConfigOverride>
+                  <option name="projectPath" value="$USER_HOME$/work/s3queueanalyzer" />
+                </AppliedConfigOverride>
               </list>
             </option>
             <option name="enabled" value="true" />

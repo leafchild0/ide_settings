@@ -16,6 +16,9 @@
                 <AppliedConfigOverride>
                   <option name="projectPath" value="$USER_HOME$/work/s3queueanalyzer" />
                 </AppliedConfigOverride>
+                <AppliedConfigOverride>
+                  <option name="projectPath" value="$USER_HOME$/dev/iot/java-components" />
+                </AppliedConfigOverride>
               </list>
             </option>
             <option name="enabled" value="true" />

@@ -22,6 +22,9 @@
                 <AppliedConfigOverride>
                   <option name="projectPath" value="$USER_HOME$/work/scheduler" />
                 </AppliedConfigOverride>
+                <AppliedConfigOverride>
+                  <option name="projectPath" value="$USER_HOME$/work/airflow" />
+                </AppliedConfigOverride>
               </list>
             </option>
             <option name="enabled" value="true" />

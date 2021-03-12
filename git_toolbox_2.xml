@@ -25,6 +25,9 @@
                 <AppliedConfigOverride>
                   <option name="projectPath" value="$USER_HOME$/work/airflow" />
                 </AppliedConfigOverride>
+                <AppliedConfigOverride>
+                  <option name="projectPath" value="$USER_HOME$/dev/java/auth-buddy" />
+                </AppliedConfigOverride>
               </list>
             </option>
             <option name="enabled" value="true" />

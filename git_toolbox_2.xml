@@ -28,6 +28,9 @@
                 <AppliedConfigOverride>
                   <option name="projectPath" value="$USER_HOME$/dev/java/auth-buddy" />
                 </AppliedConfigOverride>
+                <AppliedConfigOverride>
+                  <option name="projectPath" value="$USER_HOME$/dev/java/spring-cloud-gateway-bench" />
+                </AppliedConfigOverride>
               </list>
             </option>
             <option name="enabled" value="true" />

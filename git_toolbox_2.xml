@@ -31,6 +31,9 @@
                 <AppliedConfigOverride>
                   <option name="projectPath" value="$USER_HOME$/dev/java/spring-cloud-gateway-bench" />
                 </AppliedConfigOverride>
+                <AppliedConfigOverride>
+                  <option name="projectPath" value="$USER_HOME$/work/gateway" />
+                </AppliedConfigOverride>
               </list>
             </option>
             <option name="enabled" value="true" />

@@ -15,6 +15,7 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift alt a" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CheckStyleClearCheckCacheAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>

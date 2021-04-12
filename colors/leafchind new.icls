@@ -1,0 +1,70 @@
+<scheme name="leafchind new" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-04-12T19:07:34</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2021.1.0.0</property>
+    <property name="modified">2021-04-12T19:21:54</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_COLOR" value="7b7e80" />
+    <option name="CARET_ROW_COLOR" value="515456" />
+    <option name="FILESTATUS_HIJACKED" value="b28c00" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="787878" />
+    <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="8978f" />
+    <option name="GUTTER_BACKGROUND" value="3c3f41" />
+    <option name="LINE_NUMBERS_COLOR" value="999b9d" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="" />
+    <option name="SELECTED_INDENT_GUIDE" value="c5c8c6" />
+    <option name="SELECTION_BACKGROUND" value="2b4b6e" />
+    <option name="SEPARATOR_BELOW_COLOR" value="e4e4e4" />
+    <option name="TEARLINE_COLOR" value="a67c53" />
+  </colors>
+  <attributes>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="896c92" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="896c92" />
+      </value>
+    </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="999b9d" />
+        <option name="BACKGROUND" value="3a3a3a" />
+      </value>
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="2d5b80" />
+        <option name="ERROR_STRIPE_COLOR" value="4b4e55" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="FOREGROUND" value="c5c8c6" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="3b3b3b" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="2d5b80" />
+        <option name="ERROR_STRIPE_COLOR" value="4b4e55" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

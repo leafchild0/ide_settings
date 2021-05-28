@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="customScope" value="File '.../src/main/java/com/rifs/engineering/portal/util/snowflakeapi/SnowflakeQuery.java'" />
+    <option name="defaultScopeName" value="File '.../src/main/java/com/rifs/engineering/portal/util/snowflakeapi/SnowflakeQuery.java'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/main/java/com/rifs/engineering/portal/util/snowflakeapi/SnowflakeQuery.java'" />
   </component>
 </application>

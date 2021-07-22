@@ -84,9 +84,6 @@
   <action id="Hotswap">
     <keyboard-shortcut first-keystroke="meta f11" />
   </action>
-  <action id="IntroduceConstant">
-    <keyboard-shortcut first-keystroke="shift ctrl c" />
-  </action>
   <action id="Jdbc.OpenConsole.New" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="shift ctrl h" />

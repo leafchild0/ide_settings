@@ -1,0 +1,21 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.iodinesoftware.com" />
+          <option name="name" value="iodine" />
+          <option name="login" value="victor" />
+          <password>dfc1dfd8dfd3df9cdf9cdfcddfdcdff4dffbdfcddfe4dfff</password>
+          <organizationKey>default-organization</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules>
+      <Rule key="javascript:S1442" />
+      <Rule key="javascript:S1440" />
+    </rules>
+  </component>
+</application>

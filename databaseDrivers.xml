@@ -12,7 +12,7 @@
       </library>
     </driver>
     <driver id="mongo">
-      <artifact id="MongoDB" name="MongoDB" use="true" version="1.10" />
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.12" />
     </driver>
     <driver id="sqlserver.ms">
       <option name="auto-sync" value="false" />

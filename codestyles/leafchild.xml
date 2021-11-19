@@ -48,9 +48,6 @@
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
@@ -96,7 +93,6 @@
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
     <arrangement>
       <groups>

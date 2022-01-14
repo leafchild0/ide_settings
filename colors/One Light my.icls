@@ -3,7 +3,7 @@
     <property name="created">2022-01-09T20:38:42</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-09T21:04:19</property>
+    <property name="modified">2022-01-14T13:08:36</property>
     <property name="originalScheme">One Light</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -312,7 +312,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f9f3da" />
+        <option name="BACKGROUND" value="f5b19a" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">

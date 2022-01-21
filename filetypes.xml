@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="gradlew" type="AUTO_DETECTED" />
+      <mapping pattern="FeatureFlags" type="AUTO_DETECTED" />
       <mapping pattern="StoredCredential" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="AUTO_DETECTED" />
       <mapping pattern="4c28a79a-d684-4d0d-be0d-678d5962d4fb" type="AUTO_DETECTED" />

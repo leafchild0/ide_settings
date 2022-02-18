@@ -8,4 +8,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="@d" value="@date $DATE$" description="Date" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>

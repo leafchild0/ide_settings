@@ -6,6 +6,7 @@
       <mapping pattern="StoredCredential" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile" type="AUTO_DETECTED" />
       <mapping pattern="4c28a79a-d684-4d0d-be0d-678d5962d4fb" type="AUTO_DETECTED" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />

@@ -1,47 +1,25 @@
 <application>
   <component name="GitToolBoxAppSettings2">
     <option name="absoluteDateTimeStyle" value="MDY_TIME" />
-    <option name="extrasConfig">
-      <ExtrasConfig>
-        <option name="autoFetchEnabledOverride">
-          <BoolConfigOverride>
-            <option name="applied">
-              <list>
-                <AppliedConfigOverride>
-                  <option name="projectPath" value="$USER_HOME$/dev/java/microfrontends" />
-                </AppliedConfigOverride>
-                <AppliedConfigOverride>
-                  <option name="projectPath" value="$USER_HOME$/work/slice-provisioning-iam-aviso-account" />
-                </AppliedConfigOverride>
-                <AppliedConfigOverride>
-                  <option name="projectPath" value="$USER_HOME$/work/s3queueanalyzer" />
-                </AppliedConfigOverride>
-                <AppliedConfigOverride>
-                  <option name="projectPath" value="$USER_HOME$/dev/iot/java-components" />
-                </AppliedConfigOverride>
-                <AppliedConfigOverride>
-                  <option name="projectPath" value="$USER_HOME$/work/scheduler" />
-                </AppliedConfigOverride>
-                <AppliedConfigOverride>
-                  <option name="projectPath" value="$USER_HOME$/work/airflow" />
-                </AppliedConfigOverride>
-                <AppliedConfigOverride>
-                  <option name="projectPath" value="$USER_HOME$/dev/java/auth-buddy" />
-                </AppliedConfigOverride>
-                <AppliedConfigOverride>
-                  <option name="projectPath" value="$USER_HOME$/dev/java/spring-cloud-gateway-bench" />
-                </AppliedConfigOverride>
-                <AppliedConfigOverride>
-                  <option name="projectPath" value="$USER_HOME$/work/gateway" />
-                </AppliedConfigOverride>
-              </list>
-            </option>
-            <option name="enabled" value="true" />
-          </BoolConfigOverride>
+    <option name="autoFetchIntervalMinutes" value="30" />
+    <option name="commitMessageValidationConfig">
+      <CommitMessageValidationConfig>
+        <option name="regexConfig">
+          <RegexConfig>
+            <option name="expression" value="(?:fix|chore|feat)(?:\(.*\))?: [A-Z].*\s#\d+" />
+            <option name="testInput" value="fix: Bug #123" />
+          </RegexConfig>
         </option>
-      </ExtrasConfig>
+      </CommitMessageValidationConfig>
+    </option>
+    <option name="outdatedBranchesExclusionGlobs">
+      <list>
+        <option value="master" />
+        <option value="main" />
+        <option value="develop" />
+      </list>
     </option>
     <option name="previousVersionMigrated" value="true" />
-    <option name="version" value="3" />
+    <option name="version" value="6" />
   </component>
 </application>

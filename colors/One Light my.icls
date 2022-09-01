@@ -3,7 +3,7 @@
     <property name="created">2022-01-09T20:38:42</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-08-31T17:24:42</property>
+    <property name="modified">2022-09-01T15:07:56</property>
     <property name="originalScheme">One Light</property>
   </metaInfo>
   <colors>
@@ -348,7 +348,6 @@
       <value>
         <option name="FOREGROUND" value="3b3c41" />
         <option name="BACKGROUND" value="eae9e9" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

@@ -12,11 +12,17 @@
         </option>
       </CommitMessageValidationConfig>
     </option>
+    <option name="outdatedBranchesAutoCleanup">
+      <OutdatedBranchesAutoCleanupConfig>
+        <option name="autoCheckEnabled" value="true" />
+      </OutdatedBranchesAutoCleanupConfig>
+    </option>
     <option name="outdatedBranchesExclusionGlobs">
       <list>
         <option value="master" />
         <option value="main" />
         <option value="develop" />
+        <option value="release*" />
       </list>
     </option>
     <option name="previousVersionMigrated" value="true" />

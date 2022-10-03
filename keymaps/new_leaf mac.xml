@@ -134,6 +134,9 @@
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="shift alt p" />
   </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+  </action>
   <action id="Vcs.CherryPick">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>

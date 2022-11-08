@@ -97,11 +97,14 @@
   <action id="NextEditorTab" />
   <action id="NextProjectWindow" />
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl end" />
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl home" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
@@ -119,11 +122,20 @@
   <action id="Runner.CloseAllViews">
     <keyboard-shortcut first-keystroke="ctrl meta w" />
   </action>
+  <action id="Scala.CreateLightWorksheetAction" />
   <action id="Scala.Desugar" />
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
+  <action id="Scala.EnableErrors" />
+  <action id="Scala.MakeExplicit" />
+  <action id="Scala.RenameJavaToScala" />
+  <action id="Scala.RunConsole" />
+  <action id="Scala.RunWorksheet" />
+  <action id="Scala.SendSelectionToConsole" />
+  <action id="Scala.ShowImplicitArguments" />
+  <action id="Scala.ShowImplicitConversions" />
+  <action id="Scala.TypeInfo" />
+  <action id="ScalaConsole.Clean" />
+  <action id="ScalaConsole.Execute" />
+  <action id="ScalaConsole.NewLine" />
   <action id="ShowContent" />
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="f9" />

@@ -132,6 +132,10 @@
   <action id="Scala.SendSelectionToConsole" />
   <action id="Scala.ShowImplicitArguments" />
   <action id="Scala.ShowImplicitConversions" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="Scala.TypeInfo" />
   <action id="ScalaConsole.Clean" />
   <action id="ScalaConsole.Execute" />

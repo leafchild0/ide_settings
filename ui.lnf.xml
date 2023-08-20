@@ -3,8 +3,6 @@
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
-    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
-    <option name="WIDESCREEN_SUPPORT" value="true" />
+    <option name="UI_DENSITY" value="COMPACT" />
   </component>
 </application>

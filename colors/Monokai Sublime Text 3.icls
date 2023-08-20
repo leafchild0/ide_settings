@@ -1,4 +1,5 @@
 <scheme name="Monokai Sublime Text 3" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
@@ -24,7 +25,6 @@
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="INDENT_GUIDE" value="383830" />
-    <option name="LINE_NUMBERS_COLOR" value="999999" />
     <option name="METHOD_SEPARATORS_COLOR" value="5b5a4e" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
